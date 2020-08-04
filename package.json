@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "thecoder08"
+  },
+  "bin": {
+    "helloworld": "helloworld.js"
+  },
+  "description": "A package that says hi to the world.",
+  "license": "MIT",
+  "name": "thecoder08-helloworld",
+  "version": "1.0.5"
+}
