@@ -4,7 +4,7 @@ Hello World is a package that says hi to the world.
 ## Installation
 Run the command
 ```shell
-npm i thecoder08-helloworld -g
+npm i @thecoder08/helloworld -g
 ```
 to install Hello World. (Hello World must be installed globally to use the shell command.)
 ## Usage

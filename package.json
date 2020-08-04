@@ -1,12 +1,13 @@
 {
-  "author": {
-    "name": "thecoder08"
-  },
+  "author": "thecoder08",
   "bin": {
     "helloworld": "helloworld.js"
   },
   "description": "A package that says hi to the world.",
   "license": "MIT",
-  "name": "thecoder08-helloworld",
-  "version": "1.0.5"
+  "name": "@thecoder08/helloworld",
+  "version": "1.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
